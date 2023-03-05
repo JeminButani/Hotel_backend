@@ -1,0 +1,23 @@
+1. unzip the folder 
+2. run 'npm install' in the terminal
+3. go to your mongodb compass and connect to the localhost by default 
+    -> 1. create a database named vatsal
+    -> 2. create a collection named available_rooms
+    -> 3. go to the collection and import the data and choose the "available_rooms.json" file to import the data
+    -> 4. similarly create a collection named booked_rooms ,go to the collection and import the data and choose the "booked_rooms.json" file to import the data
+4. the start the server in the terminal by using command 'node server.js' or if you have nodmon installed then 'nodemon server.js'
+5. once you get the msg :   server Is Live at http://127.0.0.1:5000
+                            Connection Sucessfull
+    then open postman
+6. create a new request , select POST as the type
+7. enter the url : 'http://127.0.0.1:5000/findRooms'
+8. now go to the body part and select the type 'raw'
+9. then choose the data type as 'JSON'
+10. then in the body part type: 
+    {
+        "type":"normal",
+        "beds": 2,
+        "date": "January 6, 2018 06:32:35"
+    }
+
+-> Now change the values and enjoy the results

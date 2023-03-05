@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "64046668d9caf85d5ce3e361"
+  },
+  "rno": 102,
+  "type": "normal",
+  "beds": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64046676d9caf85d5ce3e363"
+  },
+  "rno": 103,
+  "type": "normal",
+  "beds": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64046686d9caf85d5ce3e365"
+  },
+  "rno": 104,
+  "type": "deluxe",
+  "beds": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6404669dd9caf85d5ce3e367"
+  },
+  "rno": 201,
+  "type": "suite",
+  "beds": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640466add9caf85d5ce3e369"
+  },
+  "rno": 202,
+  "type": "deluxe",
+  "beds": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640466e6d9caf85d5ce3e36b"
+  },
+  "rno": 205,
+  "type": "suite",
+  "beds": 3,
+  "__v": 0
+}]
