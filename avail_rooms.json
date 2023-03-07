@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6404bbaf40189eaea70e0b7f"
+  },
+  "type": "normal",
+  "adults": 2,
+  "children": 0,
+  "available": 2,
+  "booked": 4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6404bbd540189eaea70e0b81"
+  },
+  "type": "deluxe",
+  "adults": 2,
+  "children": 1,
+  "available": 3,
+  "booked": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6404bbfa40189eaea70e0b83"
+  },
+  "type": "suite",
+  "adults": 4,
+  "children": 0,
+  "available": 4,
+  "booked": 2,
+  "__v": 0
+}]
